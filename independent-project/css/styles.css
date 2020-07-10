@@ -36,5 +36,21 @@ body {
     border: 2px solid red;
     padding: 6px;
     margin: 20px;
-    background-color: yellow;
+    background-color:gray;
+}
+h1 {
+    background-color: honeydew;
+}
+img {
+    float: right;
+    width: 150px;
+}
+h2 {
+    text-align: right;
+}
+h2 {
+    background-color: khaki;
+}
+p1 {
+    background-color: lawngreen;
 }
