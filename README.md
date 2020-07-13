@@ -6,7 +6,7 @@ DESCRIPTION OF PROJECT: This is a website portfolio displaying my coding skills 
 
 PROJECT SETUP: Clone this repository to your desktop and craete a repository from your github account then feel free to work and make changes to it 
 
-LINK TO LIVE SITE:
+LINK TO LIVE SITE:https://virsail.github.io/my-programming-portfolio/
 
 LICENSING:
 MIT License
